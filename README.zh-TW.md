@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="scr/01.webp" alt="Poster Maps Pro" width="96" height="96">
+  <img src="scr/icon.png" alt="Poster Maps Pro" width="96" height="96">
 </p>
 
 <h3 align="center">Poster Maps Pro</h3>
