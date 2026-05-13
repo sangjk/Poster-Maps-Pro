@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Download-blue" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Download-blue" alt="Mac App Store"></a>
   <a href="#-system-requirements"><img src="https://img.shields.io/badge/macOS-12.0%2B-lightgrey" alt="macOS Version"></a>
   <a href="https://postermapspro.ifama.top/"><img src="https://img.shields.io/badge/Website-Official-green" alt="Official Website"></a>
   <img src="https://img.shields.io/badge/Version-1.0.x-orange" alt="Version">
@@ -187,7 +187,7 @@ All processing happens locally on your Mac. Your designs and data never leave yo
 
 ### Mac App Store (Recommended)
 
-[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/app/id6759055660)
+[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/cn/app/id6759055660)
 
 > **Note:** Search for "Poster Maps Pro" in the Mac App Store or click the button above to download directly.
 
@@ -317,7 +317,7 @@ For personal and commercial use with a valid license. Redistribution or reverse 
 **Kaifeng Sang** — Independent developer creating tools for digital entrepreneurs.
 
 - **Website:** [https://postermapspro.ifama.top/](https://postermapspro.ifama.top/)
-- **App Store:** [Poster Maps Pro](https://apps.apple.com/app/id6759055660)
+- **App Store:** [Poster Maps Pro](https://apps.apple.com/cn/app/id6759055660)
 - **Twitter:** [Share Poster Maps Pro](https://twitter.com/intent/tweet?text=Check%20out%20Poster%20Maps%20Pro%20-%20Create%20%26%20Sell%20Beautiful%20City%20Map%20Posters!)
 
 ---
@@ -336,7 +336,7 @@ For personal and commercial use with a valid license. Redistribution or reverse 
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Download%20Now-blue?style=for-the-badge" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Download%20Now-blue?style=for-the-badge" alt="Mac App Store"></a>
 </p>
 
 <p align="center">

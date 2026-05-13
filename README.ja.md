@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-ダウンロード-blue" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-ダウンロード-blue" alt="Mac App Store"></a>
   <a href="#-システム要件"><img src="https://img.shields.io/badge/macOS-12.0%2B-lightgrey" alt="macOS Version"></a>
   <a href="https://postermapspro.ifama.top/"><img src="https://img.shields.io/badge/Webサイト-公式-green" alt="Official Website"></a>
   <img src="https://img.shields.io/badge/バージョン-1.0.x-orange" alt="Version">
@@ -187,7 +187,7 @@ Photoshop も Illustrator もデザイン経験も不要。都市名を入力で
 
 ### Mac App Store（推奨）
 
-[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/ja-jp?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/app/id6759055660)
+[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/ja-jp?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/cn/app/id6759055660)
 
 > **注意：** Mac App Store で "Poster Maps Pro" を検索するか、上のボタンをクリックして直接ダウンロードしてください。
 
@@ -317,7 +317,7 @@ Etsy デジタルダウンロード, パッシブインカムツール, 地図�
 **Kaifeng Sang** — デジタル起業家のためのツールを作成する独立開発者。
 
 - **Web サイト：** [https://postermapspro.ifama.top/](https://postermapspro.ifama.top/)
-- **App Store：** [Poster Maps Pro](https://apps.apple.com/app/id6759055660)
+- **App Store：** [Poster Maps Pro](https://apps.apple.com/cn/app/id6759055660)
 - **Twitter：** [Poster Maps Pro を共有](https://twitter.com/intent/tweet?text=Check%20out%20Poster%20Maps%20Pro%20-%20Create%20%26%20Sell%20Beautiful%20City%20Map%20Posters!)
 
 ---
@@ -336,7 +336,7 @@ Etsy デジタルダウンロード, パッシブインカムツール, 地図�
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-今すぐダウンロード-blue?style=for-the-badge" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-今すぐダウンロード-blue?style=for-the-badge" alt="Mac App Store"></a>
 </p>
 
 <p align="center">

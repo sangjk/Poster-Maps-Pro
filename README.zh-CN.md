@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-下载-blue" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-下载-blue" alt="Mac App Store"></a>
   <a href="#-系统要求"><img src="https://img.shields.io/badge/macOS-12.0%2B-lightgrey" alt="macOS Version"></a>
   <a href="https://postermapspro.ifama.top/"><img src="https://img.shields.io/badge/官网-官方网站-green" alt="Official Website"></a>
   <img src="https://img.shields.io/badge/版本-1.0.x-orange" alt="Version">
@@ -187,7 +187,7 @@ Poster Maps Pro 是一款强大的 **macOS 应用程序**，可以将任何城�
 
 ### Mac App Store（推荐）
 
-[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/zh-cn?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/app/id6759055660)
+[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/zh-cn?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/cn/app/id6759055660)
 
 > **注意：** 在 Mac App Store 中搜索 "Poster Maps Pro" 或点击上方按钮直接下载。
 
@@ -317,7 +317,7 @@ Etsy 数字下载, 被动收入工具, 地图设计软件,
 **Kaifeng Sang** — 为数字创业者创建工具的独立开发者。
 
 - **官网：** [https://postermapspro.ifama.top/](https://postermapspro.ifama.top/)
-- **App Store：** [Poster Maps Pro](https://apps.apple.com/app/id6759055660)
+- **App Store：** [Poster Maps Pro](https://apps.apple.com/cn/app/id6759055660)
 - **Twitter：** [分享 Poster Maps Pro](https://twitter.com/intent/tweet?text=Check%20out%20Poster%20Maps%20Pro%20-%20Create%20%26%20Sell%20Beautiful%20City%20Map%20Posters!)
 
 ---
@@ -336,7 +336,7 @@ Etsy 数字下载, 被动收入工具, 地图设计软件,
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-立即下载-blue?style=for-the-badge" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-立即下载-blue?style=for-the-badge" alt="Mac App Store"></a>
 </p>
 
 <p align="center">

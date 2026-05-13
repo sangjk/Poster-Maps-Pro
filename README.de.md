@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Download-blue" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Download-blue" alt="Mac App Store"></a>
   <a href="#-systemanforderungen"><img src="https://img.shields.io/badge/macOS-12.0%2B-lightgrey" alt="macOS Version"></a>
   <a href="https://postermapspro.ifama.top/"><img src="https://img.shields.io/badge/Website-Offiziell-green" alt="Official Website"></a>
   <img src="https://img.shields.io/badge/Version-1.0.x-orange" alt="Version">
@@ -187,7 +187,7 @@ Die gesamte Verarbeitung erfolgt lokal auf Ihrem Mac. Ihre Designs und Daten ver
 
 ### Mac App Store (Empfohlen)
 
-[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/de-de?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/app/id6759055660)
+[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/de-de?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/cn/app/id6759055660)
 
 > **Hinweis:** Suchen Sie nach "Poster Maps Pro" im Mac App Store oder klicken Sie auf den Button oben zum direkten Download.
 
@@ -317,7 +317,7 @@ Für persönlichen und kommerziellen Gebrauch mit gültiger Lizenz. Weiterverbre
 **Kaifeng Sang** — Unabhängiger Entwickler, der Tools für digitale Unternehmer erstellt.
 
 - **Website:** [https://postermapspro.ifama.top/](https://postermapspro.ifama.top/)
-- **App Store:** [Poster Maps Pro](https://apps.apple.com/app/id6759055660)
+- **App Store:** [Poster Maps Pro](https://apps.apple.com/cn/app/id6759055660)
 - **Twitter:** [Poster Maps Pro teilen](https://twitter.com/intent/tweet?text=Check%20out%20Poster%20Maps%20Pro%20-%20Create%20%26%20Sell%20Beautiful%20City%20Map%20Posters!)
 
 ---
@@ -336,7 +336,7 @@ Für persönlichen und kommerziellen Gebrauch mit gültiger Lizenz. Weiterverbre
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Jetzt%20Laden-blue?style=for-the-badge" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Jetzt%20Laden-blue?style=for-the-badge" alt="Mac App Store"></a>
 </p>
 
 <p align="center">

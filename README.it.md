@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Scarica-blue" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Scarica-blue" alt="Mac App Store"></a>
   <a href="#-requisiti-di-sistema"><img src="https://img.shields.io/badge/macOS-12.0%2B-lightgrey" alt="macOS Version"></a>
   <a href="https://postermapspro.ifama.top/"><img src="https://img.shields.io/badge/Sito-Web-Ufficiale-green" alt="Official Website"></a>
   <img src="https://img.shields.io/badge/Versione-1.0.x-orange" alt="Version">
@@ -187,7 +187,7 @@ Tutta l'elaborazione avviene localmente sul tuo Mac. I tuoi design e dati non la
 
 ### Mac App Store (Consigliato)
 
-[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/it-it?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/app/id6759055660)
+[![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/it-it?size=250x83&releaseDate=20260513&downloadDate=20260513)](https://apps.apple.com/cn/app/id6759055660)
 
 > **Nota:** Cerca "Poster Maps Pro" nel Mac App Store o clicca il pulsante sopra per scaricare direttamente.
 
@@ -317,7 +317,7 @@ Per uso personale e commerciale con licenza valida. Ridistribuzione o reverse en
 **Kaifeng Sang** — Sviluppatore indipendente che crea strumenti per imprenditori digitali.
 
 - **Sito Web:** [https://postermapspro.ifama.top/](https://postermapspro.ifama.top/)
-- **App Store:** [Poster Maps Pro](https://apps.apple.com/app/id6759055660)
+- **App Store:** [Poster Maps Pro](https://apps.apple.com/cn/app/id6759055660)
 - **Twitter:** [Condividi Poster Maps Pro](https://twitter.com/intent/tweet?text=Check%20out%20Poster%20Maps%20Pro%20-%20Create%20%26%20Sell%20Beautiful%20City%20Map%20Posters!)
 
 ---
@@ -336,7 +336,7 @@ Per uso personale e commerciale con licenza valida. Ridistribuzione o reverse en
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Scarica%20Ora-blue?style=for-the-badge" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/cn/app/id6759055660"><img src="https://img.shields.io/badge/Mac%20App%20Store-Scarica%20Ora-blue?style=for-the-badge" alt="Mac App Store"></a>
 </p>
 
 <p align="center">
